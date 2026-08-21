@@ -522,6 +522,15 @@ body:       |
 
     <div class="flex-col" markdown="1">
     ### Online Challenges
+  
+    -   <div class="flex-col">
+  
+        [Kattis](https://open.kattis.com/)
+  
+        This site contains a large number of sample coding problems including
+        problems used in the ICPC (Intercollege Programming Competition) regional, 
+        national, and world's finals. This website is designed to simulate the 
+        problems and interface of the ICPC programming conditions as possible.
 
     -   <div class="flex-col">
 
