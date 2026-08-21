@@ -4,7 +4,7 @@ import csv
 import random
 import yaml
 
-INSTRUCTOR = 'pbui'
+INSTRUCTOR = 'pmcburne'
 
 STUDENTS = []
 for student in csv.DictReader(open('data/gradebook.csv')):
