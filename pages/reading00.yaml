@@ -63,9 +63,9 @@ body:       |
     For communication outside of our classroom, we will be using [Slack],
     which is a real-time chat platform similar to **Discord**.  Your first task is
     to create a **ND-CSE** [Slack] account (if you have not done so already)
-    and join the `#cse-30872-sp26` channel:
+    and join the `#cse-30872-fa26` channel:
 
-    > [https://nd-cse.slack.com/messages/cse-30872-sp26/](https://nd-cse.slack.com/messages/cse-30872-sp26/)
+    > [https://nd-cse.slack.com/messages/cse-30872-fa26/](https://nd-cse.slack.com/messages/cse-30872-fa26/)
 
     <div class="alert info-bg" markdown="1">
 
@@ -80,7 +80,7 @@ body:       |
     </div>
 
     [Slack]: https://nd-cse.slack.com
-    [class mailing list]: mailto:sp26-cse-30872-01-group@nd.edu
+    [class mailing list]: mailto:fa26-cse-30872-01-group@nd.edu
 
     ## Task 2: GitHub
 
@@ -99,13 +99,7 @@ body:       |
 
     2.  <div class="flex-col">
 
-        **Fork** the class assignments repository from the following template:
-
-        > [https://classroom.github.com/a/nJUwrO_H](https://classroom.github.com/a/nJUwrO_H)
-
-        This will create a **private** `assignments-$GITHUB_USERNAME`
-        repository under your own account and linked to the [nd-cse-30872-sp26]
-        organization.
+        The exact process for forking the class repo is forthcoming. Stay tuned.
 
     <div class="alert danger-bg" markdown="1">
 
@@ -219,7 +213,7 @@ body:       |
 
             :::bash
             # Example of cloning GitHub assignments repository to local or student machine
-            $ git clone git@github.com:nd-cse-30872-sp26/assignments-$GITHUB_USERNAME.git
+            $ git clone git@github.com:nd-cse-30872-fa26/assignments-$GITHUB_USERNAME.git
             remote: Enumerating objects: 70, done.
             remote: Counting objects: 100% (70/70), done.
             remote: Compressing objects: 100% (13/13), done.
@@ -495,6 +489,6 @@ body:       |
     [HackerRank]:                           https://www.hackerrank.com/
     [LeetCode]:                             https://leetcode.com/
     [SSH Keys]:                             https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
-    [nd-cse-30872-sp26]:                    https://github.com/nd-cse-30872-sp26
+    [nd-cse-30872-fa26]:                    https://github.com/nd-cse-30872-fa26
     [git-branch]:                           https://git-scm.com/docs/git-branch
     [JSON]:                                 https://json.org

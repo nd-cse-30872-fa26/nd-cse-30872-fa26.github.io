@@ -69,13 +69,13 @@ body:       |
     : [923 7767 1067](https://notredame.zoom.us/j/92377671067)
 
     <i class="icon">{{ "email" | embed_icon }}</i> Mailing List
-    : [sp26-cse-30872-01-group@nd.edu](mailto:sp26-cse-30872-01-group@nd.edu)
+    : [fa26-cse-30872-01-group@nd.edu](mailto:fa26-cse-30872-01-group@nd.edu)
 
     <i class="icon">{{ "slack" | embed_icon }}</i> Slack
-    : [#cse-30872-sp26](https://nd-cse.slack.com/messages/cse-30872-sp26)
+    : [#cse-30872-fa26](https://nd-cse.slack.com/messages/cse-30872-fa26)
 
     <i class="icon">{{ "github" | embed_icon }}</i> GitHub
-    : [nd-cse-30872-sp26](https://github.com/nd-cse-30872-sp26)
+    : [nd-cse-30872-fa26](https://github.com/nd-cse-30872-fa26)
 
     </div>
 
@@ -200,18 +200,17 @@ body:       |
     All **Reading** and **Homework** assignments are to be submitted to your
     own private [GitHub] repository. Unless specified otherwise:
 
-    - **Reading** assignments are due by **noon** on the **Monday** of the
-      assigned week.
+    - **Reading** assignments are due by **11:29 a.m.** on the **Monday** of the
+      assigned week. This means **before** class.
 
-    - **Challenges** assignments are due by **noon** on the **Saturday** of the
+    - **Challenges** assignments are due by **11:59 p.m.** on the **Sunday** of the
       assigned week.
 
     - **External Contests** are due by **noon** on the **last day** of each
       **Unit**.
 
     - Coding **Interviews** take place during the last week of the **Unit** and
-      must be scheduled with a **teaching assistant** or the **instructor**
-      ahead of time.
+      must be scheduled with the **instructor** ahead of time.
 
     </div>
 

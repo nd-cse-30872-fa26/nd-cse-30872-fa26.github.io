@@ -2,7 +2,7 @@
 
 - name:     "I/O"
   days:
-      - date:           Mon 01/12
+      - date:           Mon 08/24
         topics:         Syllabus, I/O
         assignments:
           - Reading 00
@@ -11,116 +11,93 @@
             link:       https://docs.google.com/presentation/d/1Vc51ZHcp06h2t5oT4dfkUkbkYRq8hCTKIdMMOA7ZFGA/edit?usp=sharing
           - name:       Slides 01
             link:       https://docs.google.com/presentation/d/1qlvT5mVqxFkG2QGLqOSBVUpxhs_eSS9fpYatRpErMgQ/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f96f5000-9710-4621-95ce-b3d00115c077
 
-      - date:           Wed 01/14
+      - date:           Wed 08/26
         topics:         Complexity
         items:
           - name:       Slides 02
             link:       https://docs.google.com/presentation/d/1S0i12yennDy_Vi4fAEzSKgf51IDz-NHDIcyXyJlgUik/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca18b26-4cb3-4017-9597-b3d20110ef2b
 
-      - date:           Fri 01/16
+      - date:           Fri 08/28
         topics:         Coding Style
         assignments:
           - Challenge 00
         items:
           - name:       Slides 03
             link:       https://docs.google.com/presentation/d/1PMXg_pyo25e9N6xJyy2qBLtoR4lmhVahx5IqOeTkn8g/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c4f358c-3e1e-4620-a0e7-b3d40110d91f
 
-- name:     "Sequence Containers"
+- name:     "Sequence Containers, Searching"
   days:
-      - date:           Mon 01/19
-        topics:         '<i class="muted">Martin Luther King Day</i>'
-
-      - date:           Wed 01/21
+      - date:           Mon 08/31
         topics:         Arrays, Lists
         assignments:
           - Reading 01
         items:
           - name:       Slides 04
             link:       https://docs.google.com/presentation/d/1G__cQHSFzBqT5ndDndiuPPOIXLljFKVzZtmretap-3U/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5fe5ec98-918f-4daa-9ca3-b3d90115d9d3
 
-      - date:           Fri 01/23
+      - date:           Wed 09/02
         topics:         Stacks, Queues
         items:
           - name:       Slides 05
             link:       https://docs.google.com/presentation/d/1h1iATYSMjR2bW2s-SzkV9O9mT4Wa_QKdCPshk3_qVyE/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdf85f7e-9b94-4332-8f2b-b3db0112b8ae
 
-      - date:           Sat 01/24
-        topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 01
-          - Challenge 02
-
-- name:     "Searching, Sorting"
-  days:
-      - date:           Mon 01/26
+      - date:           Fri 09/04
         topics:         Searching
         assignments:
           - Reading 02
         items:
           - name:       Slides 06
             link:       https://docs.google.com/presentation/d/1331ByG6vi8bIhIxoePuw831HxyvYmPCSODBMHvtx52U/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16dc4e99-5345-45a3-bc6f-b3de01128eae
 
-      - date:           Wed 01/28
+      - date:           Sun 09/06
+        topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 01
+          - Challenge 02
+
+- name:     "Sorting, Testing"
+  days:
+      - date:           Mon 09/07
         topics:         Sorting
         items:
           - name:       Slides 07
             link:       https://docs.google.com/presentation/d/1lqcoz9PbY107zfUQ0GM_PtD2F8ZrPeMNShU7aOmZNAw/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71f07671-d6d5-43b9-bfc3-b3e0011462ad
 
-      - date:           Fri 01/30
+      - date:           Wed 09/09
+        topics:         Testing
+
+      - date:           Fri 09/11
         topics:         ''
         items:
           - name:       Contest 01
 
-      - date:           Sat 01/31
+      - date:           Sun 09/13
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 03
-          - Challenge 04
 
 - name:     "Associative Containers"
   days:
-      - date:           Mon 02/02
+      - date:           Mon 09/14
         topics:         Sets, Maps
         assignments:
           - Reading 03
         items:
           - name:       Slides 08
             link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45c45f4a-a81f-481f-ba12-b3e50113ec52
 
-      - date:           Wed 02/04
+      - date:           Wed 09/16
         topics:         Memoization
         items:
           - name:       Slides 08
             link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=105dc6d8-99a3-4a62-8da5-b3e70117a458
 
-      - date:           Fri 02/06
+      - date:           Fri 09/18
         topics:         History
         items:
           - name:       Slides 08
             link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48006cac-d33d-4866-b986-b3e90110e655
 
-      - date:           Sat 02/07
+      - date:           Sun 09/20
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 05
@@ -128,31 +105,27 @@
 
 - name:     "Complete Search"
   days:
-      - date:           Mon 02/09
+      - date:           Mon 09/21
         topics:         Subsets
         assignments:
           - Reading 04
         items:
           - name:       Slides 09
             link:       https://docs.google.com/presentation/d/1MRx3D65LMWvvsWnRc_wWXG1LkmIMAiSNlE5dO9RbbOo/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2210b97e-eb69-4991-bbbe-b3ec0115be7a
 
-      - date:           Wed 02/11
+      - date:           Wed 09/23
         topics:         Permutations, Backtracking
         items:
           - name:       Slides 09
             link:       https://docs.google.com/presentation/d/1MRx3D65LMWvvsWnRc_wWXG1LkmIMAiSNlE5dO9RbbOo/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e25c769-0940-4c5b-9bf6-b3ee01127e91
 
-      - date:           Fri 02/13
+      - date:           Fri 09/25
         topics:         '<a href="https://adventofcode.com/2025/day/7">Advent of Code I</i>'
         items:
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19abdf7e-5a2c-4017-a358-b3f00110c7a6
+          - name:       Problem
+            link:       https://adventofcode.com/2025/day/7
 
-      - date:           Sat 02/14
+      - date:           Sun 09/27
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 07
@@ -160,29 +133,25 @@
 
 - name:     "Bit Manipulation, Greedy Algorithms"
   days:
-      - date:           Mon 02/16
+      - date:           Mon 09/28
         topics:         Bit Manipulation
         assignments:
           - Reading 05
         items:
           - name:       Slides 10
             link:       https://docs.google.com/presentation/d/1CbqJkktRimTsPNDjkN74E7G2CgWBepmQv8SQahkM5K4/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c278e82-8933-40b2-be30-b3f301133e77
 
-      - date:           Wed 02/18
+      - date:           Wed 09/30
         topics:         Greedy Algorithms
         items:
           - name:       Slides 11
             link:       https://docs.google.com/presentation/d/1795wDxqBbxBkFGrP3NoLK8lr_mjj5RHARWjCAkb29jI/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=774be8a7-475d-4074-a037-b3f50111df4a
 
-      - date:           Fri 02/20
+      - date:           Fri 10/02
         items:
           - name:       Contest 02
 
-      - date:           Sat 02/21
+      - date:           Sun 10/04
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 09
@@ -190,31 +159,27 @@
 
 - name:     "Dynamic Programming"
   days:
-      - date:           Mon 02/23
-        topics:         Memoization (Again)
+      - date:           Mon 10/05
+        topics:         Memoization
         assignments:
           - Reading 06
         items:
           - name:       Slides 12
             link:       https://docs.google.com/presentation/d/1IEzcDYFRd5MExfU8UXhGl0s1qD3-0R5leqoXACLybRA/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffa4c63f-e0a4-44a4-8040-b3fa01122287
 
-      - date:           Wed 02/25
+      - date:           Wed 10/07
         topics:         Table Building
         items:
           - name:       Slides 12
             link:       https://docs.google.com/presentation/d/1IEzcDYFRd5MExfU8UXhGl0s1qD3-0R5leqoXACLybRA/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e41259d4-2a64-4e85-b0fb-b3fc01139c0d
 
-      - date:           Fri 02/27
+      - date:           Fri 10/09
         topics:         '<a href="https://adventofcode.com/2025/day/3">Advent of Code II</i>'
         items:
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4639b923-97a9-401f-b5eb-b3fe010c883a
+          - name:       Problem
+            link:       https://adventofcode.com/2025/day/3
 
-      - date:           Sat 02/28
+      - date:           Sun 10/11
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 11
@@ -222,19 +187,19 @@
 
 - name:     Coding Interview
   days:
-      - date:           Mon 03/02
+      - date:           Mon 10/12
         topics:         ''
         items:
           - name:       Interview 01
             link:       interview01.html
 
-      - date:           Wed 03/04
+      - date:           Wed 10/14
         topics:         ''
         items:
           - name:       Interview 01
             link:       interview01.html
 
-      - date:           Fri 03/06
+      - date:           Fri 10/16
         topics:         ''
         items:
           - name:       Interview 01
@@ -249,33 +214,28 @@
 
 - name:   "Trees"
   days:
-      - date:           Mon 03/16
+      - date:           Mon 10/26
         topics:         Representation
         assignments:
           - Reading 07
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dde44691-855f-4151-a06b-b40f01052eaa
 
-      - date:           Wed 03/18
+      - date:           Wed 10/28
         topics:         Traversal
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8556d446-6472-4bb3-9d93-b4110101ecd8
 
-      - date:           Fri 03/20
+      - date:           Fri 10/30
         topics:         Divide and Conquer
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
           - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2758544c-68fd-43bd-b535-b41300ff07c2
 
-      - date:           Sat 03/21
+      - date:           Sun 11/01
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 13
@@ -283,29 +243,25 @@
 
 - name:   "Graphs I"
   days:
-      - date:           Mon 03/23
+      - date:           Mon 11/02
         topics:         Representation
         assignments:
           - Reading 08
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1IwKwcJq1siBqy2dLz4trPSPsvGazaIgDOV7beGMRINo/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1dc2179d-afc0-4ba0-ab6a-b416010338d7
 
-      - date:           Wed 03/25
+      - date:           Wed 11/04
         topics:         Traversal
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1IwKwcJq1siBqy2dLz4trPSPsvGazaIgDOV7beGMRINo/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aafbec85-72f5-46a7-a0e4-b41801032cc0
 
-      - date:           Fri 03/27
+      - date:           Fri 11/06
         items:
           - name:       Contest 03
 
-      - date:           Sat 03/28
+      - date:           Sun 11/08
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 15
@@ -313,47 +269,28 @@
 
 - name:   "Graphs II"
   days:
-      - date:           Mon 03/30
+      - date:           Mon 11/10
         topics:         Shortest Paths
         assignments:
           - Reading 09
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1PAVVnefvkA4C9c2JRpbM9TJi-eVNQekYakztw0dwPvo/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0d76cf5-72c6-4720-84c1-b41d0102f214
-
-      - date:           Wed 04/01
-        topics:         '<i class="muted">Office Hours</i>'
-
-      - date:           Fri 04/03
-        topics:         '<i class="muted">Easter</i>'
-
-- name:   "Graphs II"
-  days:
-
-      - date:           Mon 04/06
-        topics:         '<i class="muted">Easter</i>'
-
-      - date:           Wed 04/08
-        topics:         Spanning Trees
-        assignments:
           - Reading 10
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/1s4ADlvIzMavlZcwn-BM7Qbe5Q299VhuUo9KhQQr6lZY/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba19d0dc-2c62-45c5-af94-b42600ffead7
+            link:       https://docs.google.com/presentation/d/1PAVVnefvkA4C9c2JRpbM9TJi-eVNQekYakztw0dwPvo/edit?usp=sharing
 
-      - date:           Fri 04/10
+      - date:           Wed 11/12
+        topics:         Spanning Trees
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1s4ADlvIzMavlZcwn-BM7Qbe5Q299VhuUo9KhQQr6lZY/edit?usp=sharing
+
+      - date:           Fri 11/14
         topics:         Topological Sorting
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1s4ADlvIzMavlZcwn-BM7Qbe5Q299VhuUo9KhQQr6lZY/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cab7206-8c6d-4708-9cf1-b4280102a409
 
-      - date:           Sat 04/11
+      - date:           Sun 11/16
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 17
@@ -362,61 +299,64 @@
 
 - name:   "Graphs III"
   days:
-      - date:           Mon 04/13
+      - date:           Mon 11/16
         topics:         Paths
         assignments:
           - Reading 11
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1u9_HJZ8KDjJBAepRK9MRo1_fBKCEDT9vLRoryvWMGMU/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1dabc146-03ee-4c0e-9dbf-b42b0104a414
 
-      - date:           Wed 04/15
+      - date:           Wed 11/18
         topics:         Flows and Cuts
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1u9_HJZ8KDjJBAepRK9MRo1_fBKCEDT9vLRoryvWMGMU/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a15e11be-f990-4d21-9c67-b42d01014b2f
 
-      - date:           Fri 04/17
+      - date:           Fri 11/18
         items:
           - name:       Contest 04
 
-      - date:           Sat 04/18
+      - date:           Sun 11/22
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 20
           - Challenge 21
 
+- name: "Thanksgiving Week"
+  days:
+    - date:             Mon 11/23
+      topics:           Advent of Code III
+      items:
+        - name: Problem
+          link: https://adventofcode.com/2023/day/17
+
+    - date:             Wed 11/25
+      topics:           '<i class="muted">Thanksgiving Holiday</i>'
+
+    - date:             Wed 11/27
+      topics:           '<i class="muted">Thanksgiving Holiday</i>'
+
 - name:   "Miscellaneous"
   days:
-      - date:           Mon 04/20
+      - date:           Mon 11/30
         topics:         Primes and Modular Arithmetic
         assignments:
           - Reading 12
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1G9vRIiGVuDYAFXi_3uq3IZEqFJ99M4NuAuDh4Haull8/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9099ee90-ec70-4756-a2fe-b43201027560
 
-      - date:           Wed 04/22
-        topics:         Graduate School
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1cgUq-CFP8hjbvxYO_64ofx4IcKaO0wQ8-gGsexKJjrw/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1a7e36d-8a39-44f8-8411-b4340105c7fe
+      - date:           Wed 12/02
+        topics:         TBD
 
-      - date:           Fri 04/24
-        topics:         ''
+      - date:           Fri 12/04
+        topics:         TBD
         items:
           - name:       Interview 02
             link:       interview02.html
 
-      - date:           Sat 04/25
+      - date:           Sun 12/06
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
           - Challenge 22
@@ -424,12 +364,12 @@
 
 - name:   "Coding Interviews"
   days:
-      - date:           Mon 04/27
+      - date:           Mon 11/07
         topics:         ''
         items:
           - name:       Interview 02
 
-      - date:           Wed 04/29
+      - date:           Mon 11/09
         topics:         ''
         items:
           - name:       Interview 02
