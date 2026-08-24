@@ -178,13 +178,13 @@ body:       |
     - Only the `10` **Challenge** assignment with the highest scores from the
       **Unit** will be counted towards the final grade.
 
-    - Only the **Internal Contest** with the highest score from the **Unit**
-      will be counted towards the final grade.
+    - Only the `3` **Contest** assignments with the highest scores from the
+      **Course** will be counted towards the final grade.
 
-    - Only `1` **External Contest** will be required for that **Unit**.
-
-    - A coding **Interview** will be conducted during the last week of the
-      **Unit** to assess your learning and development.
+    - A coding **Interview** will be conducted during the last week of each
+      **Unit** to assess your learning and development. You will schedule a
+      time to meet with the professor to discuss your solutions to 
+      Contest and Challenge questions.
 
     </div>
 
@@ -199,10 +199,9 @@ body:       |
       assigned week. This means **before** class.
 
     - **Challenges** assignments are due by **11:59 p.m.** on the **Sunday** of the
-      assigned week.
+      date on the schedule.
 
-    - **External Contests** are due by **noon** on the **last day** of each
-      **Unit**.
+    - **Contests** are due by the end of class on the day they are released.
 
     - Coding **Interviews** take place during the last week of the **Unit** and
       must be scheduled with the **instructor** ahead of time.
@@ -238,18 +237,13 @@ body:       |
         </tr>
         <tr class="warning-bg">
           <td class="centered"><span class="badge warning-btn">Contests</span></td>
-          <td>Unit in-class contests.</td>
-          <td class="centered">2 &times; 1</td>
-        </tr>
-        <tr class="special-bg">
-          <td class="centered"><span class="badge special-btn">Externals</span></td>
-          <td>Unit external contests.</td>
-          <td class="centered">2 &times; 1</td>
+          <td>Contests.</td>
+          <td class="centered">3 &times; 2</td>
         </tr>
         <tr class="danger-bg">
           <td class="centered"><span class="badge danger-btn">Interviews</span></td>
           <td>Unit coding interviews.</td>
-          <td class="centered">2 &times; 13</td>
+          <td class="centered">2 &times; 12</td>
         </tr>
         <tr class="success-bg">
           <td class="centered" style="font-weight: bold;">Total</td>
