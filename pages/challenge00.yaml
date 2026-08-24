@@ -124,7 +124,7 @@ body:       |
     To submit your work, follow the same procedure you used for [Reading 00]:
 
         :::bash
-        $ cd path/to/cse-30872-sp26-assignments     # Go to assignments repository
+        $ cd path/to/cse-30872-fa26-assignments     # Go to assignments repository
         $ git switch master                         # Make sure we are on master
         $ git pull --rebase                         # Pull any changes from GitHub
 
@@ -164,7 +164,7 @@ body:       |
            Grade  1.00 /  1.00
 
         # Check code by submitting to dredd using curl
-        $ curl -F source=@challenge00/program.cpp https://dredd.h4x0r.space/code/cse-30872-sp26/challenge00
+        $ curl -F source=@challenge00/program.cpp https://dredd.h4x0r.space/code/cse-30872-fa26/challenge00
         {"result": "Success", "score": 6, "time": 0.11381292343139648, "value": 6, "status": 0}
 
     The **score** returned from [dredd] will be one of the following:
