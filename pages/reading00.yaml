@@ -99,7 +99,28 @@ body:       |
 
     2.  <div class="flex-col">
 
-        The exact process for forking the class repo is forthcoming. Stay tuned.
+        Once you have a GitHub account, [please fill out this GitHub Profile Form](https://forms.gle/Y5SBBJAUVAjwtCcC9).
+        This form will be used by the course professor to add you to the course GitHub organization. Be aware that
+        the invite will not arrive instantly, but that I will sync any new submissions to the form at least once a day.
+        Notification of the invite will be sent to the **email tied to your GitHub Profile**, and will expire in 7 days,
+        so do not delay in accepting it!
+
+   3.   <div class="flex-col">
+
+        Once you are in the GitHub organization, do the following to create your private assignments repository:
+
+        **First**, go to: [https://github.com/nd-cse-30872-fa26/assignments](https://github.com/nd-cse-30872-fa26/assignments)
+
+        In the top right, click the green button that says **"Use this template"**, then in the
+        dropdown click **"Create a new repository"**
+
+        **On the next screen**, under **General**
+
+        - Set **Owner** to nd-cse-30872-fa26 (the class GitHub organization) - it's very important to do this!  
+        - Set the **Reposistory name** to `assignments-[GITHUB_USERNAME]`, replacing `[GITHUB_USERNAME]` with your
+        own GitHub username.  
+        - Set "Choose Visibility" and make it **Private** - by default it is public
+        
 
     <div class="alert danger-bg" markdown="1">
 
