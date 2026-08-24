@@ -190,8 +190,7 @@
       - date:           Mon 10/12
         topics:         ''
         items:
-          - name:       Interview 01
-            link:       interview01.html
+          - name:       Contest 02
 
       - date:           Wed 10/14
         topics:         ''
@@ -204,9 +203,6 @@
         items:
           - name:       Interview 01
             link:       interview01.html
-
-        assignments:
-          - External 01
 
 - name:   "Spring Break"
 
@@ -353,8 +349,7 @@
       - date:           Fri 12/04
         topics:         TBD
         items:
-          - name:       Interview 02
-            link:       interview02.html
+          - name:       Contest 04
 
       - date:           Sun 12/06
         topics:         '<i class="muted">Programming Challenges</i>'
@@ -373,5 +368,3 @@
         topics:         ''
         items:
           - name:       Interview 02
-        assignments:
-          - External 02
