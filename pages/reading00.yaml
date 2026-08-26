@@ -114,10 +114,10 @@ body:       |
 
         **On the next screen**, under **General**
 
-        - Set **Owner** to nd-cse-30872-fa26 (the class GitHub organization) - it's very important to do this!  
-        - Set the **Reposistory name** to `assignments-[GITHUB_USERNAME]`, replacing `[GITHUB_USERNAME]` with your
+        * Set **Owner** to nd-cse-30872-fa26 (the class GitHub organization) - it's very important to do this!  
+        * Set the **Reposistory name** to `assignments-[GITHUB_USERNAME]`, replacing `[GITHUB_USERNAME]` with your
         own GitHub username.  
-        - Set "Choose Visibility" and make it **Private** - by default it is public
+        * Set "Choose Visibility" and make it **Private** - by default it is public
         
 
     <div class="alert danger-bg" markdown="1">
