@@ -119,7 +119,7 @@ body:       |
     To submit your work, follow the same procedure you used for [Reading 01]:
 
         :::bash
-        $ cd path/to/cse-30872-sp26-assignments     # Go to assignments repository
+        $ cd path/to/cse-30872-fa26-assignments     # Go to assignments repository
         $ git switch master                         # Make sure we are on master
         $ git pull --rebase                         # Pull any changes from GitHub
 
@@ -143,7 +143,7 @@ body:       |
            Score  6.00 /  6.00
            Grade  1.00 /  1.00
 
-        $ curl -F source=@challenge02/program.cpp https://dredd.h4x0r.space/code/cse-30872-sp26/challenge02
+        $ curl -F source=@challenge02/program.cpp https://dredd.h4x0r.space/code/cse-30872-fa26/challenge02
         {"result": "Success", "score": 6, "time": 0.016292572021484375, "value": 6, "status": 0}
 
     <div class="alert warning-bg" markdown="1">
