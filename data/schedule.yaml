@@ -8,15 +8,15 @@
           - Reading 00
         items:
           - name:       Slides 00
-            link:       https://docs.google.com/presentation/d/1Vc51ZHcp06h2t5oT4dfkUkbkYRq8hCTKIdMMOA7ZFGA/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1jHZMw4CntMaIMsX3G_fsZMUazOWv--JUehPok0Nfwgg/edit?usp=sharing
           - name:       Slides 01
-            link:       https://docs.google.com/presentation/d/1qlvT5mVqxFkG2QGLqOSBVUpxhs_eSS9fpYatRpErMgQ/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/10jlb3FQGawS4fzUc9PggThnkSd9a4G2CLmUU0xSk1t8/edit?usp=sharing
 
       - date:           Wed 08/26
         topics:         Complexity
         items:
           - name:       Slides 02
-            link:       https://docs.google.com/presentation/d/1S0i12yennDy_Vi4fAEzSKgf51IDz-NHDIcyXyJlgUik/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1i39ipQ1GaSox0TrR01kaCmpQPjPkhA2AqVOZQIh_C6o/edit?usp=sharing
 
       - date:           Fri 08/28
         topics:         Coding Style
@@ -24,7 +24,7 @@
           - Challenge 00
         items:
           - name:       Slides 03
-            link:       https://docs.google.com/presentation/d/1PMXg_pyo25e9N6xJyy2qBLtoR4lmhVahx5IqOeTkn8g/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1b4g_3yU1CKye1GVyv22b9uZV3E5JvZOHL3t9v8FVQSg/edit?usp=sharing
 
 - name:     "Sequence Containers, Searching"
   days:
@@ -34,13 +34,13 @@
           - Reading 01
         items:
           - name:       Slides 04
-            link:       https://docs.google.com/presentation/d/1G__cQHSFzBqT5ndDndiuPPOIXLljFKVzZtmretap-3U/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1X7zNIjjxikhiwXqSgZUT06zt__XlOdzr2lZotBKwWh8/edit?usp=sharing
 
       - date:           Wed 09/02
         topics:         Stacks, Queues
         items:
           - name:       Slides 05
-            link:       https://docs.google.com/presentation/d/1h1iATYSMjR2bW2s-SzkV9O9mT4Wa_QKdCPshk3_qVyE/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1EyKJ9wYb0KVw3-CFyOgTp4OszlDnqZF6lWpIFxx-LSs/edit?usp=sharing
 
       - date:           Fri 09/04
         topics:         Searching
@@ -48,7 +48,7 @@
           - Reading 02
         items:
           - name:       Slides 06
-            link:       https://docs.google.com/presentation/d/1331ByG6vi8bIhIxoePuw831HxyvYmPCSODBMHvtx52U/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1B-lpnXzzPOZB0eSkARLftFSiRi-rAcDXdjImtyQix0w/edit?usp=sharing
 
       - date:           Sun 09/06
         topics:         '<i class="muted">Programming Challenges</i>'
@@ -60,9 +60,6 @@
   days:
       - date:           Mon 09/07
         topics:         Sorting
-        items:
-          - name:       Slides 07
-            link:       https://docs.google.com/presentation/d/1lqcoz9PbY107zfUQ0GM_PtD2F8ZrPeMNShU7aOmZNAw/edit?usp=sharing
 
       - date:           Wed 09/09
         topics:         Testing
@@ -79,45 +76,23 @@
   days:
       - date:           Mon 09/14
         topics:         Sets, Maps
-        assignments:
-          - Reading 03
-        items:
-          - name:       Slides 08
-            link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
 
       - date:           Wed 09/16
         topics:         Memoization
-        items:
-          - name:       Slides 08
-            link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
 
       - date:           Fri 09/18
         topics:         History
-        items:
-          - name:       Slides 08
-            link:       https://docs.google.com/presentation/d/1E32uEwozUqwBIVDkdvcywgKiRkvYoH7DVT4O2p0goCA/edit?usp=sharing
 
       - date:           Sun 09/20
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 05
-          - Challenge 06
 
 - name:     "Complete Search"
   days:
       - date:           Mon 09/21
         topics:         Subsets
-        assignments:
-          - Reading 04
-        items:
-          - name:       Slides 09
-            link:       https://docs.google.com/presentation/d/1MRx3D65LMWvvsWnRc_wWXG1LkmIMAiSNlE5dO9RbbOo/edit?usp=sharing
 
       - date:           Wed 09/23
         topics:         Permutations, Backtracking
-        items:
-          - name:       Slides 09
-            link:       https://docs.google.com/presentation/d/1MRx3D65LMWvvsWnRc_wWXG1LkmIMAiSNlE5dO9RbbOo/edit?usp=sharing
 
       - date:           Fri 09/25
         topics:         '<a href="https://adventofcode.com/2025/day/7">Advent of Code I</i>'
@@ -127,25 +102,14 @@
 
       - date:           Sun 09/27
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 07
-          - Challenge 08
 
 - name:     "Bit Manipulation, Greedy Algorithms"
   days:
       - date:           Mon 09/28
         topics:         Bit Manipulation
-        assignments:
-          - Reading 05
-        items:
-          - name:       Slides 10
-            link:       https://docs.google.com/presentation/d/1CbqJkktRimTsPNDjkN74E7G2CgWBepmQv8SQahkM5K4/edit?usp=sharing
 
       - date:           Wed 09/30
         topics:         Greedy Algorithms
-        items:
-          - name:       Slides 11
-            link:       https://docs.google.com/presentation/d/1795wDxqBbxBkFGrP3NoLK8lr_mjj5RHARWjCAkb29jI/edit?usp=sharing
 
       - date:           Fri 10/02
         items:
@@ -153,25 +117,14 @@
 
       - date:           Sun 10/04
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 09
-          - Challenge 10
 
 - name:     "Dynamic Programming"
   days:
       - date:           Mon 10/05
         topics:         Memoization
-        assignments:
-          - Reading 06
-        items:
-          - name:       Slides 12
-            link:       https://docs.google.com/presentation/d/1IEzcDYFRd5MExfU8UXhGl0s1qD3-0R5leqoXACLybRA/edit?usp=sharing
 
       - date:           Wed 10/07
         topics:         Table Building
-        items:
-          - name:       Slides 12
-            link:       https://docs.google.com/presentation/d/1IEzcDYFRd5MExfU8UXhGl0s1qD3-0R5leqoXACLybRA/edit?usp=sharing
 
       - date:           Fri 10/09
         topics:         '<a href="https://adventofcode.com/2025/day/3">Advent of Code II</i>'
@@ -181,9 +134,6 @@
 
       - date:           Sun 10/11
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 11
-          - Challenge 12
 
 - name:     Coding Interview
   days:
@@ -212,46 +162,23 @@
   days:
       - date:           Mon 10/26
         topics:         Representation
-        assignments:
-          - Reading 07
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
 
       - date:           Wed 10/28
         topics:         Traversal
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
 
       - date:           Fri 10/30
         topics:         Divide and Conquer
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1-j12Y6f9e8XVKOPiUYr6FgEQd1qyUEyUXlHSer16ehI/edit?usp=sharing
-          - name:       Panopto
 
       - date:           Sun 11/01
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 13
-          - Challenge 14
 
 - name:   "Graphs I"
   days:
       - date:           Mon 11/02
         topics:         Representation
-        assignments:
-          - Reading 08
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1IwKwcJq1siBqy2dLz4trPSPsvGazaIgDOV7beGMRINo/edit?usp=sharing
 
       - date:           Wed 11/04
         topics:         Traversal
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1IwKwcJq1siBqy2dLz4trPSPsvGazaIgDOV7beGMRINo/edit?usp=sharing
 
       - date:           Fri 11/06
         items:
@@ -259,55 +186,28 @@
 
       - date:           Sun 11/08
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 15
-          - Challenge 16
 
 - name:   "Graphs II"
   days:
       - date:           Mon 11/10
         topics:         Shortest Paths
-        assignments:
-          - Reading 09
-          - Reading 10
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1PAVVnefvkA4C9c2JRpbM9TJi-eVNQekYakztw0dwPvo/edit?usp=sharing
 
       - date:           Wed 11/12
         topics:         Spanning Trees
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1s4ADlvIzMavlZcwn-BM7Qbe5Q299VhuUo9KhQQr6lZY/edit?usp=sharing
 
       - date:           Fri 11/14
         topics:         Topological Sorting
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1s4ADlvIzMavlZcwn-BM7Qbe5Q299VhuUo9KhQQr6lZY/edit?usp=sharing
 
       - date:           Sun 11/16
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 17
-          - Challenge 18
-          - Challenge 19
 
 - name:   "Graphs III"
   days:
       - date:           Mon 11/16
         topics:         Paths
-        assignments:
-          - Reading 11
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1u9_HJZ8KDjJBAepRK9MRo1_fBKCEDT9vLRoryvWMGMU/edit?usp=sharing
 
       - date:           Wed 11/18
         topics:         Flows and Cuts
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1u9_HJZ8KDjJBAepRK9MRo1_fBKCEDT9vLRoryvWMGMU/edit?usp=sharing
 
       - date:           Fri 11/18
         items:
@@ -315,9 +215,6 @@
 
       - date:           Sun 11/22
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 20
-          - Challenge 21
 
 - name: "Thanksgiving Week"
   days:
@@ -337,11 +234,6 @@
   days:
       - date:           Mon 11/30
         topics:         Primes and Modular Arithmetic
-        assignments:
-          - Reading 12
-        items:
-          - name:       Slides
-            link:       https://docs.google.com/presentation/d/1G9vRIiGVuDYAFXi_3uq3IZEqFJ99M4NuAuDh4Haull8/edit?usp=sharing
 
       - date:           Wed 12/02
         topics:         TBD
@@ -353,9 +245,6 @@
 
       - date:           Sun 12/06
         topics:         '<i class="muted">Programming Challenges</i>'
-        assignments:
-          - Challenge 22
-          - Challenge 23
 
 - name:   "Coding Interviews"
   days:
