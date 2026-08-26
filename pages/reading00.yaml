@@ -103,7 +103,7 @@ body:       |
         Notification of the invite will be sent to the **email tied to your GitHub Profile**, and will expire in 7 days,
         so do not delay in accepting it!
 
-   3.   <div class="flex-col">
+    3.   <div class="flex-col">
 
         Once you are in the GitHub organization, do the following to create your private assignments repository:
 
