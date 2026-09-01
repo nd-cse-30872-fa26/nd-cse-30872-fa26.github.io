@@ -63,7 +63,7 @@ body:       |
     : **M/W/F** 10:30 AM - 11:20 AM
 
     <i class="icon">{{ "map-marker" | embed_icon }}</i> Location
-    : **310** DeBartolo Hall
+    : **117** DeBartolo Hall
 
     <i class="icon">{{ "email" | embed_icon }}</i> Mailing List
     : [fa26-cse-30872-01-group@nd.edu](mailto:fa26-cse-30872-01-group@nd.edu)
@@ -94,7 +94,7 @@ body:       |
     ### Office Hours
 
     Forthcoming
-              
+
     ## Schedule
 
     <table>
@@ -183,7 +183,7 @@ body:       |
 
     - A coding **Interview** will be conducted during the last week of each
       **Unit** to assess your learning and development. You will schedule a
-      time to meet with the professor to discuss your solutions to 
+      time to meet with the professor to discuss your solutions to
       Contest and Challenge questions.
 
     </div>
@@ -514,14 +514,14 @@ body:       |
 
     <div class="flex-col" markdown="1">
     ### Online Challenges
-  
+
     -   <div class="flex-col">
-  
+
         [Kattis](https://open.kattis.com/)
-  
+
         This site contains a large number of sample coding problems including
-        problems used in the ICPC (Intercollege Programming Competition) regional, 
-        national, and world's finals. This website is designed to simulate the 
+        problems used in the ICPC (Intercollege Programming Competition) regional,
+        national, and world's finals. This website is designed to simulate the
         problems and interface of the ICPC programming conditions as possible.
 
     -   <div class="flex-col">
