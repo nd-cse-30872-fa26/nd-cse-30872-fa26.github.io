@@ -60,6 +60,9 @@
   days:
       - date:           Mon 09/07
         topics:         Sorting
+        items:
+          - name: Slides 07
+            link: https://docs.google.com/presentation/d/1-k98Jkvyk0VDkzH0q464PJ1lykYi6Sy0iiGI4ItCcBg/edit?usp=sharing
 
       - date:           Wed 09/09
         topics:         Testing
@@ -76,12 +79,23 @@
   days:
       - date:           Mon 09/14
         topics:         Sets, Maps
+        assignments:
+          - Reading 03
+        items:
+          - name: Slides 08
+            link: https://docs.google.com/presentation/d/1SAOSGdTIXHr60NgJwVt8QRKYQSK3UqFSGL8mz31FlSk/edit?usp=sharing
 
       - date:           Wed 09/16
         topics:         Memoization
+        items:
+          - name: Slides 08
+            link: https://docs.google.com/presentation/d/1SAOSGdTIXHr60NgJwVt8QRKYQSK3UqFSGL8mz31FlSk/edit?usp=sharing
 
       - date:           Fri 09/18
         topics:         History
+        items:
+          - name: Slides 08
+            link: https://docs.google.com/presentation/d/1SAOSGdTIXHr60NgJwVt8QRKYQSK3UqFSGL8mz31FlSk/edit?usp=sharing
 
       - date:           Sun 09/20
         topics:         '<i class="muted">Programming Challenges</i>'
