@@ -44,8 +44,6 @@
 
       - date:           Fri 09/04
         topics:         Searching
-        assignments:
-          - Reading 02
         items:
           - name:       Slides 06
             link:       https://docs.google.com/presentation/d/1B-lpnXzzPOZB0eSkARLftFSiRi-rAcDXdjImtyQix0w/edit?usp=sharing
@@ -60,6 +58,8 @@
   days:
       - date:           Mon 09/07
         topics:         Sorting
+        assignments:
+          - Reading 02
         items:
           - name: Slides 07
             link: https://docs.google.com/presentation/d/1-k98Jkvyk0VDkzH0q464PJ1lykYi6Sy0iiGI4ItCcBg/edit?usp=sharing
