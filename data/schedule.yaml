@@ -65,7 +65,10 @@
             link: https://docs.google.com/presentation/d/1-k98Jkvyk0VDkzH0q464PJ1lykYi6Sy0iiGI4ItCcBg/edit?usp=sharing
 
       - date:           Wed 09/09
-        topics:         Testing
+        topics:         Functional
+        items:
+          - name: Slides A
+            link: https://docs.google.com/presentation/d/1Qgn6llb07aTJKUesCo9Z5bxttNr1qK9NPkBPA3iUtbg/edit?usp=sharing
 
       - date:           Fri 09/11
         topics:         ''
@@ -74,6 +77,9 @@
 
       - date:           Sun 09/13
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 03
+          - Challenge 04
 
 - name:     "Associative Containers"
   days:
