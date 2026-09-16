@@ -105,11 +105,16 @@
 
       - date:           Sun 09/20
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 05
+          - Challenge 06
 
 - name:     "Complete Search"
   days:
       - date:           Mon 09/21
         topics:         Subsets
+        assignments:
+          - Reading 04
 
       - date:           Wed 09/23
         topics:         Permutations, Backtracking
