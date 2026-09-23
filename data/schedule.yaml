@@ -134,11 +134,16 @@
 
       - date:           Sun 09/27
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 07
+          - Challenge 08
 
 - name:     "Bit Manipulation, Greedy Algorithms"
   days:
       - date:           Mon 09/28
         topics:         Bit Manipulation
+        assignments:
+          - Reading 05
 
       - date:           Wed 09/30
         topics:         Greedy Algorithms
@@ -154,6 +159,8 @@
   days:
       - date:           Mon 10/05
         topics:         Memoization
+        assignments:
+          - Reading 06
 
       - date:           Wed 10/07
         topics:         Table Building
