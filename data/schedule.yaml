@@ -127,7 +127,7 @@
             link: https://docs.google.com/presentation/d/1R_bk-2nqj_RQ8xY0u8fjywPSO2O83rwV-2i11FR_Nes/edit?usp=sharing
 
       - date:           Fri 09/25
-        topics:         '<a href="https://adventofcode.com/2025/day/7">Advent of Code I</i>'
+        topics:         '<a href="https://adventofcode.com/2025/day/7">Advent of Code I</a>'
         items:
           - name:       Problem
             link:       https://adventofcode.com/2025/day/7
@@ -166,7 +166,7 @@
         topics:         Table Building
 
       - date:           Fri 10/09
-        topics:         '<a href="https://adventofcode.com/2025/day/3">Advent of Code II</i>'
+        topics:         '<a href="https://adventofcode.com/2025/day/3">Advent of Code II</a>'
         items:
           - name:       Problem
             link:       https://adventofcode.com/2025/day/3
