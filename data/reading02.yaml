@@ -89,7 +89,7 @@ body:       |
 
     <div class="alert warning-bg" markdown="1">
 
-    ### <i class="icon icon-medium">{{ "lifebuoy" | embed_icon }}</i> Acknowledgments
+    ### <i class="icon icon-medium">{{ icon("lifebuoy") }}</i> Acknowledgments
 
     If you collaborated with any other students, or received help from TAs or AI
     tools on this assignment, please record this support in the `README.md` in
