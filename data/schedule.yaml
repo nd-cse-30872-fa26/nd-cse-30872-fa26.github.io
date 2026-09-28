@@ -144,9 +144,15 @@
         topics:         Bit Manipulation
         assignments:
           - Reading 05
+        items:
+          - name: Slides 10
+            link: https://docs.google.com/presentation/d/1MjJrP4lcHRkQvWZW5Lg8LXI6Z60tB8hPIN9cSi64i7M/edit?usp=sharing
 
       - date:           Wed 09/30
         topics:         Greedy Algorithms
+        items:
+          - name: Slides 11
+            link: https://docs.google.com/presentation/d/1RmS7_qXo6NCr9R9gDU9l8aMAFdLQhnvp24zkrNCrWAk/edit?usp=sharing
 
       - date:           Fri 10/02
         items:
@@ -193,7 +199,7 @@
           - name:       Interview 01
             link:       interview01.html
 
-- name:   "Spring Break"
+- name:   "Fall Break"
 
 - name:   "Unit 02: Trees and Graphs"
 
