@@ -160,6 +160,9 @@
 
       - date:           Sun 10/04
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 09
+          - Challenge 10
 
 - name:     "Dynamic Programming"
   days:
