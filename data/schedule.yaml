@@ -188,7 +188,8 @@
       - date:           Mon 10/12
         topics:         ''
         items:
-          - name:       Contest 02
+          - name:       Interview 01
+            link:       interview01.html
 
       - date:           Wed 10/14
         topics:         ''
@@ -289,7 +290,7 @@
       - date:           Fri 12/04
         topics:         TBD
         items:
-          - name:       Contest 04
+          - name:       Interview 02
 
       - date:           Sun 12/06
         topics:         '<i class="muted">Programming Challenges</i>'
