@@ -170,6 +170,10 @@
         topics:         Memoization
         assignments:
           - Reading 06
+        items:
+          - name: Slides 12
+            link: https://docs.google.com/presentation/d/14hcdSq2TnYbRksbeBPpxWDDRGoH1-WEVV2wde7LuiSw/edit?usp=sharing
+
 
       - date:           Wed 10/07
         topics:         Table Building
