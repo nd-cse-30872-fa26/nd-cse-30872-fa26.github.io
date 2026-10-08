@@ -195,19 +195,19 @@
 - name:     Coding Interview
   days:
       - date:           Mon 10/12
-        topics:         ''
+        topics:         Optional 2nd Chance Contest 01/02
         items:
           - name:       Interview 01
             link:       interview01.html
 
       - date:           Wed 10/14
-        topics:         ''
+        topics:         Interview Week
         items:
           - name:       Interview 01
             link:       interview01.html
 
       - date:           Fri 10/16
-        topics:         ''
+        topics:         Interview Week
         items:
           - name:       Interview 01
             link:       interview01.html
