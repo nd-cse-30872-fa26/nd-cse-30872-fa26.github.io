@@ -220,9 +220,14 @@
   days:
       - date:           Mon 10/26
         topics:         Representation
+        items:
+          - name: Slides 13
+            link: https://docs.google.com/presentation/d/1NEajffZRp6L2pVXYqCTzBwArnW0acQOCHS0-PycX3ds/edit?usp=sharing 
 
       - date:           Wed 10/28
         topics:         Traversal
+        assignments:
+          - Reading 07
 
       - date:           Fri 10/30
         topics:         Divide and Conquer
