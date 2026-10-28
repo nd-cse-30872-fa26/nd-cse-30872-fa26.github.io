@@ -225,12 +225,18 @@
             link: https://docs.google.com/presentation/d/1NEajffZRp6L2pVXYqCTzBwArnW0acQOCHS0-PycX3ds/edit?usp=sharing 
 
       - date:           Wed 10/28
-        topics:         Traversal
+        topics:         Traversal, Divide and Conquer
         assignments:
           - Reading 07
+        items:
+          - name: Slides 13
+            link: https://docs.google.com/presentation/d/1NEajffZRp6L2pVXYqCTzBwArnW0acQOCHS0-PycX3ds/edit?usp=sharing
 
       - date:           Fri 10/30
-        topics:         Divide and Conquer
+        topics:         In-class problem
+        items:
+          - name: Shinjuku Station
+            link: https://open.kattis.com/problems/shinjukustation
 
       - date:           Sun 11/01
         topics:         '<i class="muted">Programming Challenges</i>'
