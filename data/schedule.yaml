@@ -240,11 +240,16 @@
 
       - date:           Sun 11/01
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 13
+          - Challenge 14
 
 - name:   "Graphs I"
   days:
       - date:           Mon 11/02
         topics:         Representation
+        assignments:
+          - Reading 08
 
       - date:           Wed 11/04
         topics:         Traversal
@@ -255,6 +260,9 @@
 
       - date:           Sun 11/08
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 15
+          - Challenge 16
 
 - name:   "Graphs II"
   days:
