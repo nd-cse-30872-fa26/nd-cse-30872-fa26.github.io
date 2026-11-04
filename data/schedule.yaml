@@ -256,7 +256,8 @@
 
       - date:           Fri 11/06
         items:
-          - name:       Contest 03
+          - name:       Kattis Problem
+            link:       https://open.kattis.com/problems/gettingthrough
 
       - date:           Sun 11/08
         topics:         '<i class="muted">Programming Challenges</i>'
@@ -267,13 +268,15 @@
 - name:   "Graphs II"
   days:
       - date:           Mon 11/10
-        topics:         Shortest Paths
+        topics:         Contest 03
 
       - date:           Wed 11/12
-        topics:         Spanning Trees
+        topics:         Shortest Paths
+        assignments:
+          - Reading 09
 
       - date:           Fri 11/14
-        topics:         Topological Sorting
+        topics:         Spanning Trees
 
       - date:           Sun 11/16
         topics:         '<i class="muted">Programming Challenges</i>'
@@ -281,14 +284,14 @@
 - name:   "Graphs III"
   days:
       - date:           Mon 11/16
-        topics:         Paths
+        topics:         Topological Sorting
 
       - date:           Wed 11/18
-        topics:         Flows and Cuts
+        topics:         Paths
 
       - date:           Fri 11/18
         items:
-          - name:       Contest 04
+          - name:       Flows and Cuts
 
       - date:           Sun 11/22
         topics:         '<i class="muted">Programming Challenges</i>'
@@ -313,7 +316,7 @@
         topics:         Primes and Modular Arithmetic
 
       - date:           Wed 12/02
-        topics:         TBD
+        topics:         Contest 04
 
       - date:           Fri 12/04
         topics:         TBD
