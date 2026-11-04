@@ -219,13 +219,13 @@
 - name:   "Trees"
   days:
       - date:           Mon 10/26
-        topics:         Representation
+        topics:         Tree Representation
         items:
           - name: Slides 13
             link: https://docs.google.com/presentation/d/1NEajffZRp6L2pVXYqCTzBwArnW0acQOCHS0-PycX3ds/edit?usp=sharing 
 
       - date:           Wed 10/28
-        topics:         Traversal, Divide and Conquer
+        topics:         Tree Traversal, Divide and Conquer
         assignments:
           - Reading 07
         items:
@@ -247,12 +247,15 @@
 - name:   "Graphs I"
   days:
       - date:           Mon 11/02
-        topics:         Representation
+        topics:         Graph Representation
         assignments:
           - Reading 08
+        items:
+          - name: Slides 14
+            link: https://docs.google.com/presentation/d/1nSy7Z6nf6C1LMUBTkiCWZ5yooA9kof70xr-gazabGFc/edit?usp=sharing
 
       - date:           Wed 11/04
-        topics:         Traversal
+        topics:         Graph Traversal
 
       - date:           Fri 11/06
         items:
@@ -268,7 +271,8 @@
 - name:   "Graphs II"
   days:
       - date:           Mon 11/10
-        topics:         Contest 03
+        items:
+          - name: Contest 02
 
       - date:           Wed 11/12
         topics:         Shortest Paths
