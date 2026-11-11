@@ -278,17 +278,31 @@
         topics:         Shortest Paths
         assignments:
           - Reading 09
+        items:
+          - name: Slides 15
+            link: https://docs.google.com/presentation/d/1xCfvaOjI-dT4hvwVKXkn3k9BjqcTrTu8mYRMl2HyD8s/edit?usp=sharing
 
       - date:           Fri 11/14
         topics:         Spanning Trees
+        items:
+          - name: Slides 16
+            link: https://docs.google.com/presentation/d/1xCfvaOjI-dT4hvwVKXkn3k9BjqcTrTu8mYRMl2HyD8s/edit?usp=sharing
 
       - date:           Sun 11/16
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 17
+          - Challenge 18
+
+
 
 - name:   "Graphs III"
   days:
       - date:           Mon 11/16
         topics:         Topological Sorting
+        items:
+          - name: Slides 16
+            link: https://docs.google.com/presentation/d/1xCfvaOjI-dT4hvwVKXkn3k9BjqcTrTu8mYRMl2HyD8s/edit?usp=sharing
 
       - date:           Wed 11/18
         topics:         Paths
