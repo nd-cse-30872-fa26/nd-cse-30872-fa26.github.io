@@ -286,8 +286,7 @@
         topics:         Spanning Trees
         items:
           - name: Slides 16
-            link: https://docs.google.com/presentation/d/1xCfvaOjI-dT4hvwVKXkn3k9BjqcTrTu8mYRMl2HyD8s/edit?usp=sharing
-
+            link: https://docs.google.com/presentation/d/1rSUHYZpXOJTm8eKn8oBcVNU56U4bMoQjm6zf23udXoY/edit?usp=sharing
       - date:           Sun 11/16
         topics:         '<i class="muted">Programming Challenges</i>'
         assignments:
@@ -302,7 +301,9 @@
         topics:         Topological Sorting
         items:
           - name: Slides 16
-            link: https://docs.google.com/presentation/d/1xCfvaOjI-dT4hvwVKXkn3k9BjqcTrTu8mYRMl2HyD8s/edit?usp=sharing
+            link: https://docs.google.com/presentation/d/1rSUHYZpXOJTm8eKn8oBcVNU56U4bMoQjm6zf23udXoY/edit?usp=sharing
+        assignments:
+          - Reading 10
 
       - date:           Wed 11/18
         topics:         Paths
