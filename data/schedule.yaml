@@ -307,13 +307,22 @@
 
       - date:           Wed 11/18
         topics:         Paths
+        items:
+          - name: Slides 17
+            link: https://docs.google.com/presentation/d/1qabRt5fu2JK7DO1JHRC4NUkKyXJ720uRet_l25Asww0/edit?usp=drive_link
 
       - date:           Fri 11/18
+        topics:         Flows and Cuts
         items:
-          - name:       Flows and Cuts
+          - name: Slides 17
+            link: https://docs.google.com/presentation/d/1qabRt5fu2JK7DO1JHRC4NUkKyXJ720uRet_l25Asww0/edit?usp=drive_link
 
       - date:           Sun 11/22
         topics:         '<i class="muted">Programming Challenges</i>'
+        assignments:
+          - Challenge 19
+          - Challenge 20
+          - Challenge 21
 
 - name: "Thanksgiving Week"
   days:
@@ -321,7 +330,9 @@
       topics:           Advent of Code III
       items:
         - name: Problem
-          link: https://adventofcode.com/2023/day/17
+          link: https://adventofcode.com/2023/day/17d
+      assignments:
+        - Reading 11
 
     - date:             Wed 11/25
       topics:           '<i class="muted">Thanksgiving Holiday</i>'
